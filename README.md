@@ -13,5 +13,7 @@ The scatter and bin-averaged plots are shown as following:
 
 ![](output_13_1.png)
 ![](output_13_2.png)
+![](5.png) 
 
-According to the Granovetter hypothesis, link neighborhood overlap is an increasing function of link weight in social networks. But the trend in Facebook social network is not in accordance with the Granovetter hypothesis.
+According to the Granovetter hypothesis, link neighborhood overlap is an increasing function of link weight in social networks. Based on the scatter plot, we can see that link neighborhood overlap is an increasing function of link weight, so the trend is almost accordance with the Granovetter hypothesis, which means that users tend to form social ties to others like them, a person's friends tend to be friends , the network is highly homogeneous. 
+
